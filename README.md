@@ -24,7 +24,7 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 - The work was developed in R programming language.
 
 
-## Screenshots
+## Forecast
 * Forecast for the year 2016.
 <img src="Figures/f1.png"  width="800" height="300">
 
