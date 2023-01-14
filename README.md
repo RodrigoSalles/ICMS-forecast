@@ -38,9 +38,6 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
 - Testing with other statistical and machine learning models would be interesting.
 
 
