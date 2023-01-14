@@ -4,7 +4,7 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 ## Table of Contents
 * [General information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Forecast](#Forecast)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
