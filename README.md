@@ -2,7 +2,7 @@
 Study developed to analyze time series and forecast ICMS tax collection for the State of Minas Gerais - Brazil.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -26,8 +26,8 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+* Prediction for the training set
+<img src="Figures/f1.png"  width="800" height="300">
 
 
 ## Setup
