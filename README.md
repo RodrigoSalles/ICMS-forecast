@@ -6,7 +6,6 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -26,48 +25,32 @@ Study developed to analyze time series and forecast ICMS tax collection for the 
 
 
 ## Screenshots
-* Prediction for the training set
+* Forecast for the year 2016.
 <img src="Figures/f1.png"  width="800" height="300">
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+* To run the program related to forecasts, just have the environment software R installed.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+* The work was developed only for the discipline mentioned above, and thus is closed.
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Testing with other statistical and machine learning models would be interesting.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+* [FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial).
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Rodrigo Salles. Email: engenharia.salles@gmail.com 
+
+...feel free to contact me!
 
 
 <!-- Optional -->
